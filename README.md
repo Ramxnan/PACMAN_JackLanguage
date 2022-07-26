@@ -7,12 +7,12 @@ Points are obtained the same way by eating the dots placed
 The game is implemented in jack language and can be run after complied using the VM emulator
     
     []: # Language: jack
-    []: # Path: PACKMAN Speedrun.jack
+    []: # Path: PACKMAN Speedrun
 
 
 ## How to run
 
-Step 1: Delete all VM files in the folder
-Step 2: Run JackComplier.bat to generate new VM files
-Step 3: Run VMEmulator.bat to run the emulator
+Step 1: Delete all VM files in the folder<br>
+Step 2: Run JackComplier.bat to generate new VM files<br>
+Step 3: Run VMEmulator.bat to run the emulator<br>
 Step 4: Choose program file as the PACMAN_Speedrun and run with medium speed and no animations
