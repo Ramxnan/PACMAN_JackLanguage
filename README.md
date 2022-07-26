@@ -7,7 +7,7 @@ Points are obtained the same way by eating the dots placed
 The game is implemented in jack language and can be run after complied using the VM emulator
     
     []: # Language: jack
-    []: # Path: ConnectFour.jack
+    []: # Path: PACKMAN Speedrun.jack
 
 
 ## How to run
